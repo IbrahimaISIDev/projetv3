@@ -62,6 +62,13 @@
         "role": "apprenant",
         "motDePasse": "apprenant_odc"
     },
+      {
+        "nom": "Diol",
+        "prenom": "Issa",
+        "email": "issa.diol@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
     {
         "nom": "Mbow",
         "prenom": "Saer",
